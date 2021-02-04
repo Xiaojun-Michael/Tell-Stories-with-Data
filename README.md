@@ -8,7 +8,7 @@ Before joining Heinz, I was studying Economics in China, with my experiences mos
 
 During my time in Heinz, I grew a deep interest in data analytics. Learning how to use data for discovering patterns, finding solutions or predicting has been an amazing experience for me, and that drives me to pursue a data science career after I graduate from Heinz.
 
-PS: A fun fact about me - I am a foodie who has a passion to cook, but I am not good at cooking. So I often need to decide on the tradeoff of cooking and enduring my own cooking products :|
+A fun fact about me - I am a foodie who has a passion to cook, but I am not good at cooking. So I often need to decide on the tradeoff of cooking and enduring my own cooking products. |
 
 ## What I hope to learn
 I was introduced to this class when I was taking the Data Impact Lab class with Professor Labash in Fall 2019. Back then I was trying to learn more about analytical skills, learn how to solve problems with different tools. Now, after more than a year learning analytical skills, doing projects and internship. I realized that the solving the problem is only half of the job, the other half is delivering and communicating the findings.
