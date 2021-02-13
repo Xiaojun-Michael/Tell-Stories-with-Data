@@ -5,4 +5,6 @@ header and explanatory text
 <div class="flourish-embed flourish-chart" data-src="visualisation/5289859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/5290153"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 [Return to main page](/README.md)
