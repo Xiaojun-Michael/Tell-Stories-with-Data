@@ -16,6 +16,4 @@ I was introduced to this class when I was taking the Data Impact Lab class with 
 The latter half mentioned above is what I am hoping to learn in this class, how to make the findings (visuals) more clear, how to make the findings concise and beautiful, how to make the visuals more persuasive, and how to tell a good story with data.
 
 ## Portfolio
-This is where my portfolio going to be.
-
-[Government Debt Assignment](/GovDebtVisual.md)
+[Assignment 2: Government Debt Visuals](/GovDebtVisual.md)
