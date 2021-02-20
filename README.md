@@ -17,3 +17,5 @@ The latter half mentioned above is what I am hoping to learn in this class, how 
 
 ## Portfolio
 [Assignment 2: Government Debt Visuals](/GovDebtVisual.md)
+
+[Assignment 3&4: Government Debt Visuals](/Assignment 3&4.md)
