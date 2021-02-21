@@ -75,6 +75,8 @@ Based on the feedback I got, I plan to make the following additional changes:
 
 ![big_mac_revised](big_mac_revised.png)
 
+Note: the exported image fits better into the website, so I used the image of the Tableau recreation, instead of the embed code (which I have tried).
+
 The redesigned data visualizations are showing the GDP adjusted local currency valuation for countries in three different categories. With the average of currency valuations in the three categories shown with the red average lines. Readers can clearly see that both Normal trading partners and designated currency manipulators groups have overvalued local currency and do not show significant difference, with the countries on US treasury watch list have on average undervalued currency. This shows a clear mismatch between the American policy on currency manipulator and local currency valuation against the US dollar. This mismatch would make readers wonder why the mismatch happens, and thus be interested in reading the article.
 
 I picked the side by side circle plot from Tableau, because it is a good way to compare different countries within 3 different categories. The plot type is not much different from the original plot type.
