@@ -69,4 +69,4 @@ Based on the feedback I got, I plan to make the following additional changes:
 ## Final data visualization
 
 
-![big_mac_revised](big_mac_revised.jpg)
+![big_mac_revised](big_mac_revised.png)
