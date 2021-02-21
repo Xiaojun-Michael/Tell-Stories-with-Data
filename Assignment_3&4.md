@@ -34,7 +34,7 @@ This is a graph.
 It refelcts the mismatch between the current US policy and the actual currency valuation.
 - Is there anything you find surprising or confusing?
 
-1. What is US treasury. 2. From the grpah, it seems the policy is not very reasonable because the three cateory's currency valuation does not show significant difference.
+1.What is US treasury. 2. From the grpah, it seems the policy is not very reasonable because the three cateory's currency valuation does not show significant difference.
 - Who do you think is the intended audience for this?
 
 Policymakers who make relevant policy. Or researchers who research currency manipulation.
@@ -48,10 +48,10 @@ Person 2:
 This is a graph for exchange rate valuation. The line in the middle there is the baseline.
 - Can you describe to me what this is telling you?
 
-1. It tells whether the different currency is over/under valuabled. 2. On watch list, it is most undervalued. 3. Vietnam is manufacture and developing country, and its currency is undervalued.
+1.It tells whether the different currency is over/under valuabled. 2. On watch list, it is most undervalued. 3. Vietnam is manufacture and developing country, and its currency is undervalued.
 - Is there anything you find surprising or confusing?
 
-1. What is Big mac index. 2. How to estimate under- over value 3. the 20 40 60 not clear. 3. The categories on the right should have some explanations, the baseline countries should have category name.
+1.What is Big mac index. 2. How to estimate under- over value 3. the 20 40 60 not clear. 3. The categories on the right should have some explanations, the baseline countries should have category name.
 - Who do you think is the intended audience for this?
 
 Finance company, investors who do work involving exchange rate.
