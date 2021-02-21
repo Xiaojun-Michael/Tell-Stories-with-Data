@@ -64,4 +64,7 @@ Change to bar charts with different colors and add numbers.
 Based on the feedback I got, I plan to make the following additional changes:
 - keep the grid on visualization
 - add category name to the baseline countries
-- 
+- add numbers to the points
+
+## Final data visualization
+
