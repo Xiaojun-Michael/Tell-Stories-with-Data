@@ -16,7 +16,7 @@ I first critiqued the data visualization with the Stephen Few's Data Visualizati
 - The original graph is doing well in its usefulness, completeness, truthfulness, meaning that the graph is doing well at understanding who are their target readers, it is in general understandable and is accurate, reliable and valid.
 - The original graph however is not doing well at its perceptibility, intuitivenss, aesthetics, engagement, meaning that even though the data visualization is trying to describe an interesting topic, the graph is not beautiful and concise enough to tell the story clearly.
 - This graph understands that its primary audience would be poeple who are interested in Economics related issues. I am sure that this graph would be good enough for an Economics journal paper, where the primary readers are researches who would like to know all the details and are willing to fully understand the story by spending several minutes on the graph and 10 mins on reading the related documents. However, considering that The Economists readers would have less patience than a normal researcher. I think my improvment focus is going to be: try to keep only the information that is most revelant to the story and try ways to make the story stand out, so from there I though of some points that I could imporve on:
-  1. Delete the raw big mac indexes, these are less important information. I am planning to only keep the most important GDP adjusted big mac index.
+  1. Delete the raw big mac indexes, these are less important information. I am planning to only keep the most important one: GDP adjusted big mac index.
   2. Change the title, axis labels to stress the story with words
   3. add elements on the graph to give more clear categories: normal trade partners, on US treasury watch list, designated currency manipulator by US treasury.
 
@@ -36,10 +36,10 @@ Then I showed my wireframe to two people and asked for feedback on the wireframe
 This is a graph.
 - Can you describe to me what this is telling you?
 
-It refelcts the mismatch between the current US policy and the actual currency valuation.
+It reflects the mismatch between the current US policy and the actual currency valuation.
 - Is there anything you find surprising or confusing?
 
-1.What is US treasury. 2. From the grpah, it seems the policy is not very reasonable because the three cateory's currency valuation does not show significant difference.
+1.What is US treasury. 2. From the graph, it seems the policy is not very reasonable because the three categorys' currency valuation does not show significant difference.
 - Who do you think is the intended audience for this?
 
 Policymakers who make relevant policy. Or researchers who research currency manipulation.
