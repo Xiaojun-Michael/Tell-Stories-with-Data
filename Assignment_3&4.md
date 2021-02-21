@@ -11,7 +11,7 @@ What is on US treasury. From the grpah, it seems the policy is not very reasonab
 - Who do you think is the intended audience for this?
 people who make relevant policy. Or researchers who research currency manipulation.
 - Is there anything you would change or do differently?
-Nothing in perticular.
+Add grid to make the points clearer.
 
 - Can you tell me what you think this is?
 This is a graph for exchange rate valuation. The line there is baseline.
