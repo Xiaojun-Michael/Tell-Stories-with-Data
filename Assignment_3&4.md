@@ -5,6 +5,7 @@ Why this data visualization?
 I picked this visualization because I think this is a visualization that is very informative, accurate, and carefully thought through for most of the elements, but the main story is not clear enough to understand easily. I see this as a common real-life problem for data scientists. Most of the times, data scientists do not make obvious, major mistakes such as using a wrong type of graph, using confusing color or style. However, they often struggle to tell a clear story with one well-crafted graph. Being clear, concise and persuvasive with a graph is a more common struggle to me. That's why I picked this data visualization from the Economist. The graph itself is already a 80/100 score graph, trying to improve from 80 to 90 is more challenging than improve another graph from 60 to 80. But I would like to take up on the challenge and see if I could make the graph more concise and help the graph tell the story quicker and easier.
 
 ![big_mac_index](big_mac_index.jpg)
+
 Source: [the Economist page](https://www.economist.com/finance-and-economics/2021/01/12/what-the-big-mac-index-tells-you-about-currency-wars) / or see in my repo big max index.pdf file
 
 ## The process
@@ -26,8 +27,8 @@ I still imagine my imporved visualization to be on the page of the Economist mag
 Then I showed my wireframe to two people and asked for feedback on the wireframe, here are the answers I got:
 
 
-Person 1:
-- Can you tell me what you think this is?
+**Person 1:**
+**Can you tell me what you think this is?**
 
 This is a graph.
 - Can you describe to me what this is telling you?
@@ -59,7 +60,7 @@ This is a graph for exchange rate valuation. The line in the middle there is the
 Finance company, investors who do work involving exchange rate.
 - Is there anything you would change or do differently?
 
-Change to bar charts with different colors and add numbers (the numbers will show in interactive map when click). 
+Change to bar charts with different colors and add numbers if there is no clear grid line. 
 
 Based on the feedback I got, I plan to make the following additional changes:
 - keep the grid on visualization
@@ -68,5 +69,10 @@ Based on the feedback I got, I plan to make the following additional changes:
 
 ## Final data visualization
 
-
 ![big_mac_revised](big_mac_revised.png)
+
+The redesigned data visualizations are showing the GDP adjusted local currency valuation for countries in three different categories. With the average of currency valuations in the three categories shown with the red average lines. Readers can clearly see that both Normal trading partners and designated currency manipulators groups have overvalued local currency and do not show significant difference, with the countries on US treasury watch list have on average undervalued currency. This shows a clear mismatch between the American policy on currency manipulator and local currency valuation against the US dollar. This mismatch would make readers wonder why the mismatch happens, and thus be interested in reading the article.
+
+I picked the side by side circle plot from Tableau, because it is a good way to compare different countries within 3 different categories. The plot type is not much different from the original plot type.
+
+I am trying to stress on the story of the misatch here. As a result, I have picked only the adjusted index from the original dataset, the result of the data seems less important in this case. Also, to stress on the comparsion between groups, I have plotted out the average line for each group to highlight the between group comparsion and stress the point that the data manipulator countries' currency are on average over-valued, just like the normal trading partners'.
