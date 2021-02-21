@@ -25,6 +25,7 @@ I still imagine my imporved visualization to be on the page of the Economist mag
 
 Then I showed my wireframe to two people and asked for feedback on the wireframe, here are the answers I got:
 
+
 Person 1:
 - Can you tell me what you think this is?
 
@@ -42,6 +43,7 @@ Policymakers who make relevant policy. Or researchers who research currency mani
 
 Add grid to make the points and the number they represents clearer.
 
+
 Person 2:
 - Can you tell me what you think this is?
 
@@ -58,3 +60,8 @@ Finance company, investors who do work involving exchange rate.
 - Is there anything you would change or do differently?
 
 Change to bar charts with different colors and add numbers. 
+
+Based on the feedback I got, I plan to make the following additional changes:
+- keep the grid on visualization
+- add category name to the baseline countries
+- 
