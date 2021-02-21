@@ -14,9 +14,9 @@ I first critiqued the data visualization with the Stephen Few's Data Visualizati
 - The original graph is doing well in its usefulness, completeness, truthfulness, meaning that the graph is doing well at understanding who are their target readers, it is in general understandable and is accurate, reliable and valid.
 - The original graph however is not doing well at its perceptibility, intuitivenss, aesthetics, engagement, meaning that even though the data visualization is trying to describe an interesting topic, the graph is not beautiful and concise enough to tell the story clearly.
 - This graph understands that its primary audience would be poeple who are interested in Economics related issues. I am sure that this graph would be good enough for an Economics journal paper, where the primary readers are researches who would like to know all the details and are willing to fully understand the story by spending several minutes on the graph and 10 mins on reading the related documents. However, considering that The Economists readers would have less patience than a normal researcher. I think my improvment focus is going to be: try to keep only the information that is most revelant to the story and try ways to make the story stand out, so from there I though of some points that I could imporve on:
-- 1. Delete the raw big mac indexes, these are less important information. I am planning to only keep the most important GDP adjusted big mac index.
-- 2. Change the title, axis labels to stress the story with words
-- 3. add elements on the graph to give more clear categories: normal trade partners, on US treasury watch list, designated currency manipulator by US treasury.
+  1. Delete the raw big mac indexes, these are less important information. I am planning to only keep the most important GDP adjusted big mac index.
+  2. Change the title, axis labels to stress the story with words
+  3. add elements on the graph to give more clear categories: normal trade partners, on US treasury watch list, designated currency manipulator by US treasury.
 
 With those thoughts in my mind, I created a wireframe skatch as following:
 
@@ -28,7 +28,8 @@ Then I showed my wireframe to two people and asked for feedback on the wireframe
 
 
 **Person 1:**
-**Can you tell me what you think this is?**
+
+- Can you tell me what you think this is?
 
 This is a graph.
 - Can you describe to me what this is telling you?
@@ -45,7 +46,8 @@ Policymakers who make relevant policy. Or researchers who research currency mani
 Add grid to make the points and the number they represents clearer. Consider add average line for each category.
 
 
-Person 2:
+**Person 2:**
+
 - Can you tell me what you think this is?
 
 This is a graph for exchange rate valuation. The line in the middle there is the baseline.
@@ -76,3 +78,6 @@ The redesigned data visualizations are showing the GDP adjusted local currency v
 I picked the side by side circle plot from Tableau, because it is a good way to compare different countries within 3 different categories. The plot type is not much different from the original plot type.
 
 I am trying to stress on the story of the misatch here. As a result, I have picked only the adjusted index from the original dataset, the result of the data seems less important in this case. Also, to stress on the comparsion between groups, I have plotted out the average line for each group to highlight the between group comparsion and stress the point that the data manipulator countries' currency are on average over-valued, just like the normal trading partners'.
+
+## Summary
+The visualization was included because 
