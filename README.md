@@ -19,3 +19,5 @@ The latter half mentioned above is what I am hoping to learn in this class, how 
 [Assignment 2: Government Debt Visuals](/GovDebtVisual.md)
 
 [Assignment 3&4: Big Mac Index](/Assignment_3&4.md)
+
+[Final Project](/final_project_Xiaojun.md)
