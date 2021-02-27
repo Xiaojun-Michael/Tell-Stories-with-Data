@@ -31,7 +31,7 @@ The data is stored in csv format, and contains more than 40,000 arrest record fr
 
 Currently, as descirbed in the sketch part above, I am planning to use the data in the following ways: 1) do the stacked bar chart statistical visualization 2) do the comparsion map of the arrests in the Pittsburgh area pre and post BLM.
 
-Due to the large amount of arrest data we have, I am planning to select two months, one to represent the pre-BLM period and one to represent post-BLM period for our comparsion analysis. For example, select Dec 2019 to represent pre BLM, Dec 2020 to represent post BLM. By selecting Dec for both years, it will get rid of the seasonal influence. However, the influence of COVID could not be fully offset. But I think Dec 2020 would be the best choice I could get for the post BLM period, becuase it is almost 1 year after the COVID breakout, so people's behavior should be pretty similar to pre COVID, and thus I think selecting to compare between Dec 2019 and Dec 2020 would be ideal.
+Due to the large amount of arrest data we have, I am planning to select two months, one to represent the pre-BLM period and one to represent post-BLM period for our comparsion analysis. For example, select Dec 2019 to represent pre BLM, Dec 2020 to represent post BLM. By selecting Dec for both years, it will get rid of the seasonal influence. However, the influence of COVID could not be fully offset. But I think Dec 2020 would be the best choice I could get for the post BLM period, becuase it is almost 1 year after the COVID breakout, so people's behavior should be pretty similar to pre COVID, and thus I think selecting to compare between Dec 2019 and Dec 2020 would be ideal, not perfect without influence of COVID, but the best I could get.
 
 ### Method and medium
   
@@ -42,3 +42,5 @@ I will first see if I need to do some pre-processing data cleaning. If needed, t
 The visualizations would be made primarily in Tableau, maybe in Flourish as well, and we will get the embed code for the visuals after the visuals are done.
 
 The presentation would be made on the shorthand platform. The embed code for the visuals would be placed in the shorthand desk to combine the visuals into the persentation.
+
+[Return to main page](/README.md)
