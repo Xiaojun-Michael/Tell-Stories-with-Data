@@ -18,9 +18,11 @@ Project structure:
 Possible v bar chart show the number of arrest of black people against white, adjust for their population; bar graph show the comparision between balck arrest and white arrest for **minor charges** to see if there is further evidence of discrimination; bar chart show the comparision of stats before and after BLM.
 
 For the statistical visualizations part, I am currently imaging stacked bar charts to do a comparision of the number of arrest of Black and White before and post BLM, adjusted for the population of the race. Also, the bars would be a stacked bar with each bar consists of arrests for minor charges and arrests for other reasons because higher proportion of arrests for minor charges could potentially indicate police injustice behavior. My current assumption is that the graph will show the police arrests more black people and a higher propotion of them are arrested for minor charges, which means possible injustice; my hypothesis is that the situation does not change much after the BLM movement. The exact findings awaits confirmation, but I am planning to do charts like the following:
+
 ![sketch_1](project_sketch_1.jpg)
 
 For the maps part, I am planning to visually see if there are clustering of arrests of one race, and if that clustering changes after BLM, so I am planning to do charts look like the following:
+
 ![sketch_2](project_sketch_2.jpg)
 
 
