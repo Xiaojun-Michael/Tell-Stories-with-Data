@@ -51,13 +51,13 @@ Thank you so much for your time. Do you have any questions for me?
   
 | Questions  | Interview 1  | Interview 2 | Interview 3  |
 | ------------- | ------------- | ------------- | ------------- |
-| Could you tell me what is your main takeaway from the presentation?  | Do  | Do  | Do  |
-| Who do you think this presentation is for?  | Do  | Do  | Do  |
-| What do you think this presentation is calling for?  | Do  | Do  | Do  |
-| Do you feel motivated to act?  | Do  | Do  | Do  |
-| Do you find the general logic flow of the presentation easy to follow?  | Do  | Do  | Do  |
-| Do you think the visualization is easy to understand?  | Do  | Do  | Do  |
-| Do you spot anything that should be changed?  | Do  | Do  | Do  |
+| Could you tell me what is your main takeaway from the presentation?  | Pittsburgh arrest has become more fair after BLM, but still inequality exists.  | Do  | Do  |
+| Who do you think this presentation is for?  | Every citizen, everyone should put effort into a more equal society.  | Do  | Do  |
+| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality, including community work  | Do  | Do  |
+| Do you feel motivated to act?  | On a certain level yes.  | Do  | Do  |
+| Do you find the general logic flow of the presentation easy to follow?  | In general yes. But for the data, you only shows total arrest and arrest for mariwana, no percentage, should show how many percentage of total arrest is due to majri, add two pie chart in the slide 4 to connect the two slides.  | Do  | Do  |
+| Do you think the visualization is easy to understand?  | Yes.  | Do  | Do  |
+| Do you spot anything that should be changed?  | As mentioned above.  | Do  | Do  |
 
 #### Changes to make
 
