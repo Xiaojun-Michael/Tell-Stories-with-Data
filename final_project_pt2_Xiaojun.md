@@ -34,10 +34,10 @@ As a student in Heinz college, many of my friends are interested in poblic polic
 
 #### Interview Sctipts
 
-**Brief Introduction:**
+- **Brief Introduction:**
 Thanks for helping with my user research today. My goal today is to get feedback on a wireframe I designed for the Tell-story-With-Data class at CMU. I'm going to present you the wireframe I have, and ask you for your comments on the different components of the wireframe to see what makes senses and what's confusing. I'm trying to test the clearity of my wireframe and try to improve it, so there are no wrong answers for you! The whole process should take less than 10 mins of your time, thanks again! Now let's get started.
 
-**Main Section**
+- **Main Section**
 Today I will present my wireframe about <After BLM, what happened and what's next>. I will go through the wireframe quickly, approximately 2 mins, and then ask for questions:
 1. 'Okay, first of all, could you tell me what is your main takeaway from the presentation?'
 2. 'Who do you think this presentation is for?'
@@ -47,7 +47,7 @@ Today I will present my wireframe about <After BLM, what happened and what's nex
 6. 'Do you think the visualization is easy to understand?'
 7. 'Do you spot anything that should be changed?'
 
-**Wrap up**
+- **Wrap up**
 
 Thank you so much for your time. Do you have any questions for me?
 
