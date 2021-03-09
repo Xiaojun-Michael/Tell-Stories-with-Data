@@ -21,3 +21,5 @@ The latter half mentioned above is what I am hoping to learn in this class, how 
 [Assignment 3&4: Big Mac Index](/Assignment_3&4.md)
 
 [Final Project Part I](/final_project_pt1_Xiaojun.md)
+
+[Final Project Part II](/final_project_pt2_Xiaojun.md)
