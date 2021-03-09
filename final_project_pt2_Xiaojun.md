@@ -35,7 +35,7 @@ As a student in Heinz college, many of my friends are interested in poblic polic
 Thanks for helping with my user research today. My goal today is to get feedback on a wireframe I designed for the Tell-story-With-Data class at CMU. I'm going to present you the wireframe I have, and ask you for your comments on the different components of the wireframe to see what makes senses and what's confusing. I'm trying to test the clearity of my wireframe and try to improve it, so there are no wrong answers for you! The whole process should take less than 10 mins of your time, thanks again! Now let's get started.
 
 **Main Section**
-Today I will present my wireframe about <After BLM, what happened and what's next>. Go through the wireframe quickly, approximately 2 mins, and then ask for questions:
+Today I will present my wireframe about <After BLM, what happened and what's next>. I will go through the wireframe quickly, approximately 2 mins, and then ask for questions:
 1. 'Okay, first of all, could you tell me what is your main takeaway from the presentation?'
 2. 'Who do you think this presentation is for?'
 3. 'What do you think this presentation is calling for?'
@@ -45,6 +45,7 @@ Today I will present my wireframe about <After BLM, what happened and what's nex
 7. 'Do you spot anything that should be changed?'
 
 **Wrap up**
+
 Thank you so much for your time. Do you have any questions for me?
 
 #### Interviews Findings
@@ -52,14 +53,16 @@ Thank you so much for your time. Do you have any questions for me?
 | Questions  | Interview 1  | Interview 2 | Interview 3  |
 | ------------- | ------------- | ------------- | ------------- |
 | Could you tell me what is your main takeaway from the presentation?  | Pittsburgh arrest has become more fair after BLM, but still inequality exists.  | Do  | Do  |
-| Who do you think this presentation is for?  | Every citizen, everyone should put effort into a more equal society.  | Do  | Do  |
-| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality, including community work  | Do  | Do  |
+| Who do you think this presentation is for?  | Every citizen. everyone should put effort into a more equal society.  | Do  | Do  |
+| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality. The thing we could do includes community work  | Do  | Do  |
 | Do you feel motivated to act?  | On a certain level yes.  | Do  | Do  |
-| Do you find the general logic flow of the presentation easy to follow?  | In general yes. But for the data, you only shows total arrest and arrest for mariwana, no percentage, should show how many percentage of total arrest is due to majri, add two pie chart in the slide 4 to connect the two slides.  | Do  | Do  |
+| Do you find the general logic flow of the presentation easy to follow?  | In general yes. But for the data, you only shows total arrest and arrest for marijuana, no percentage. It will be more logical to show how many percentage of total arrest is due to each kind of offense, add two pie chart in the end of slide 4 to connect to slide 5.  | Do  | Do  |
 | Do you think the visualization is easy to understand?  | Yes.  | Do  | Do  |
-| Do you spot anything that should be changed?  | As mentioned above.  | Do  | Do  |
+| Do you spot anything that should be changed?  | As mentioned above, add two pie charts.  | Do  | Do  |
+
+All three intreviewees are graduate school students, so the audience may not be super representative of the whole population.
 
 #### Changes to make
-
+1. Add bart charts to show the type of offense people get arrested for.
 
 [Return to main page](/README.md)
