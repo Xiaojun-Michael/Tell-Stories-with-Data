@@ -63,7 +63,7 @@ Thank you so much for your time. Do you have any questions for me?
 | Do you think the visualization is easy to understand?  | Yes.  | Most visuals are clear. Map is a little small, especially the points are small.  | Yes, although the color is not constant for the map the graph eariler. In the map, the points are black/red; eariler it is red/blue.  |
 | Do you spot anything that should be changed?  | As mentioned above, add two pie charts.  | Page 5 is introduced quickly, and only show this marijuana offense is a little thin, some other examples with similar trend to make the point strong.  | As mentioned above, change to a constant color choice for Black/White statistics. Maybe consider some other call for action.  |
 
-All three intreviewees are graduate school students, so the audience may not be perfectly representative of the whole potential audience. However, considering that the young students are a major force in racial equality movements, and they are probably the early audiences of this presentation. It's reasonable to beging the user research from the students. But it is important to keep in mind that if the audience grows larger, additional user research would be needed.
+All three intreviewees are graduate school students, so the audience may not be perfectly representative of the whole potential audience. However, considering that the young students are a major force in racial equality movements, and they are probably the early audiences of this presentation. It's reasonable to begin the user research from the students. But it is important to keep in mind that if the audience grow larger, additional user research would be needed.
 
 #### Changes to make
 
