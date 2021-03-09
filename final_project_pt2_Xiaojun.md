@@ -52,13 +52,13 @@ Thank you so much for your time. Do you have any questions for me?
   
 | Questions  | Interview 1  | Interview 2 | Interview 3  |
 | ------------- | ------------- | ------------- | ------------- |
-| Could you tell me what is your main takeaway from the presentation?  | Pittsburgh arrest has become more fair after BLM, but still inequality exists.  | Do  | Do  |
-| Who do you think this presentation is for?  | Every citizen. everyone should put effort into a more equal society.  | Do  | Do  |
-| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality. The thing we could do includes community work  | Do  | Do  |
-| Do you feel motivated to act?  | On a certain level yes.  | Do  | Do  |
-| Do you find the general logic flow of the presentation easy to follow?  | In general yes. But for the data, you only shows total arrest and arrest for marijuana, no percentage. It will be more logical to show how many percentage of total arrest is due to each kind of offense, add two pie chart in the end of slide 4 to connect to slide 5.  | Do  | Do  |
-| Do you think the visualization is easy to understand?  | Yes.  | Do  | Do  |
-| Do you spot anything that should be changed?  | As mentioned above, add two pie charts.  | Do  | Do  |
+| Could you tell me what is your main takeaway from the presentation?  | Pittsburgh arrest has become more fair after BLM, but still inequality exists.  | See the logic line: raise the question BLM, then did a statistic compare and see a slight deline in general but significant for some specific arrest. Then, mentioned some neighborhoods that need some more attention  | Do  |
+| Who do you think this presentation is for?  | Every citizen. everyone should put effort into a more equal society.  | Government & Protester  | Do  |
+| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality. The thing we could do includes community work  | Advocate people to follow BLM, not sure ask them to protest or pay attention. Give recommendation not just protest, but other ways.  | Do  |
+| Do you feel motivated to act?  | On a certain level yes.  | Not so much, if more interested in this topic   | Do  |
+| Do you find the general logic flow of the presentation easy to follow?  | In general yes. But for the data, you only shows total arrest and arrest for marijuana, no percentage. It will be more logical to show how many percentage of total arrest is due to each kind of offense, add two pie chart in the end of slide 4 to connect to slide 5.  | Yes  | Do  |
+| Do you think the visualization is easy to understand?  | Yes.  | The others is fine. Map is a little small, the points are small.  | Do  |
+| Do you spot anything that should be changed?  | As mentioned above, add two pie charts.  | Page 5 is quick, and only this offense is a little thin, some other examples to make the point strong.  | Do  |
 
 All three intreviewees are graduate school students, so the audience may not be super representative of the whole population.
 
