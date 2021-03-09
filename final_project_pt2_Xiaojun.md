@@ -3,7 +3,7 @@
 
 ### Wireframe: a shorthand desk
 
-shorthand desk link: ![short hand desk link](https://preview.shorthand.com/ex9LAOUKTHauXqwA)
+shorthand desk link: [short hand desk link](https://preview.shorthand.com/ex9LAOUKTHauXqwA)
 
 To better do user research, I built out a draft of my story in Shorthand to serve as Wireframe. 
 
