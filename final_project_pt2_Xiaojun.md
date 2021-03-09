@@ -36,17 +36,28 @@ Thanks for helping with my user research today. My goal today is to get feedback
 
 **Main Section**
 Today I will present my wireframe about <After BLM, what happened and what's next>. Go through the wireframe quickly, approximately 2 mins, and then ask for questions:
+1. 'Okay, first of all, could you tell me what is your main takeaway from the presentation?'
+2. 'Who do you think this presentation is for?'
+3. 'What do you think this presentation is calling for?'
+4. 'Do you feel motivated to act?'
+5. 'Do you find the general logic flow of the presentation easy to follow?'
+6. 'Do you think the visualization is easy to understand?'
+7. 'Do you spot anything that should be changed?'
 
+**Wrap up**
+Thank you so much for your time. Do you have any questions for me?
 
 #### Interviews Findings
   
-| Questions  | Answers | Interview 1  | Interview 2 | Interview 3  |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Evaluate the overall sotry line  | Do people correctly get what the presentation is showing after a quick walkthorugh? |
-| Evaluate the call for action  | Do people understand what the presentation is asking the viewer to do?  |
-| Evaluate the general logic flow of the presentation  | Is the general logic of the presentation easy to follow?  |
-| Evaluate the visualization presented  | Is the visulations shown easy to understand?  |
-| Priortize what to fix  | What problems are most severe?  |
+| Questions  | Interview 1  | Interview 2 | Interview 3  |
+| ------------- | ------------- | ------------- | ------------- |
+| Could you tell me what is your main takeaway from the presentation?  | Do  | Do  | Do  |
+| Who do you think this presentation is for?  | Do  | Do  | Do  |
+| What do you think this presentation is calling for?  | Do  | Do  | Do  |
+| Do you feel motivated to act?  | Do  | Do  | Do  |
+| Do you find the general logic flow of the presentation easy to follow?  | Do  | Do  | Do  |
+| Do you think the visualization is easy to understand?  | Do  | Do  | Do  |
+| Do you spot anything that should be changed?  | Do  | Do  | Do  |
 
 #### Changes to make
 
