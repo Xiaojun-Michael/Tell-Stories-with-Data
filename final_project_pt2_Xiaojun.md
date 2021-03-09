@@ -1,22 +1,26 @@
 
 ## Final Project Part II
 
-### Wireframe
+### Wireframe: a shorthand desk
 To better do user research, I built out a draft of my story in Shorthand to serve as Wireframe. 
 
 The visualizations in the shorthand desks are generated with python codes, so they will serve as sketches for my future presentation visuals, and should be able to convey the ideas that I want to show. Those current visualizations will eventually be replaced with a final and more well-structured version made through Tableau.
 
 The page and layouts are not final as well, but the shorthand desk should be able to show the general story line and serve as a wireframe for user research.
 
-### StoryBoard
+### StoryBoard: a general flow of the element outline
 ![storyboard](storyboard.jpg)
 
 ### User Research Protocol
 #### Goals/Questions 
+
 | Goals  | Questions |
 | ------------- | ------------- |
-| Evaluate the overall sotry line  | Does the general structure of the   |
-| Any recommendation  |   |
+| Evaluate the overall sotry line  | Do people correctly get what the presentation is showing after a quick walkthorugh? |
+| Evaluate the call for action  | Do people understand what the presentation is asking the viewer to do?  |
+| Evaluate the general logic flow of the presentation  | Is the general logic of the presentation easy to follow?  |
+| Evaluate the visualization presented  | Is the visulations shown easy to understand?  |
+| Priortize what to fix  | What problems are most severe?  |
 
 #### Interview Sctipts
 
