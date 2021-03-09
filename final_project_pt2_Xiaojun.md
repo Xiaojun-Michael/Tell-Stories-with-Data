@@ -2,6 +2,9 @@
 ## Final Project Part II
 
 ### Wireframe: a shorthand desk
+
+shorthand desk link: ![short hand desk link](https://preview.shorthand.com/ex9LAOUKTHauXqwA)
+
 To better do user research, I built out a draft of my story in Shorthand to serve as Wireframe. 
 
 The visualizations in the shorthand desks are generated with python codes, so they will serve as sketches for my future presentation visuals, and should be able to convey the ideas that I want to show. Those current visualizations will eventually be replaced with a final and more well-structured version made through Tableau.
@@ -53,16 +56,23 @@ Thank you so much for your time. Do you have any questions for me?
 | Questions  | Interview 1  | Interview 2 | Interview 3  |
 | ------------- | ------------- | ------------- | ------------- |
 | Could you tell me what is your main takeaway from the presentation?  | Pittsburgh arrest has become more fair after BLM, but still inequality exists.  | The general logic line: 1. raise the question BLM; 2. a statistic compare and see a slight deline in general but significant for some specific arrest; 3. mentioned some neighborhoods that need some more attention  | The movement makes some changes but not enough.  |
-| Who do you think this presentation is for?  | Every citizen. everyone should put effort into a more equal society.  | Government & Protester  | Probably BLM advocates  |
-| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality. The thing we could do includes community work  | Advocate people to follow BLM, not sure ask them to protest or pay attention. Give recommendation not just protest, but other ways.  | Asking us to follow the website. Not entirely sure how to engage in local comunmunity work.  |
-| Do you feel motivated to act?  | On a certain level yes.  | Not so much, if more interested in this topic   | Somwhat yes. If there are easier and more meaningful call for action, then I would be more motivated  |
+| Who do you think this presentation is for?  | Every citizen. everyone should put effort into a more equal society.  | Government & Protester  | Probably BLM protestors  |
+| What do you think this presentation is calling for?  | Keep involved in the BLM, still need to push for equality. The thing we could do includes community work  | Advocate people to follow BLM, not sure ask them to protest or pay attention. The exact call for action is not very clear.  | Asking us to follow the website. Not entirely sure how to engage in local comunmunity work.  |
+| Do you feel motivated to act?  | On a certain level yes.  | Not so much, if I am more interested in this topic, then I would act.  | Somwhat yes. If there are easier and more meaningful call for action, then I would be more motivated  |
 | Do you find the general logic flow of the presentation easy to follow?  | In general yes. But for the data, you only shows total arrest and arrest for marijuana, no percentage. It will be more logical to show how many percentage of total arrest is due to each kind of offense, add two pie chart in the end of slide 4 to connect to slide 5.  | Yes  | Yes  |
-| Do you think the visualization is easy to understand?  | Yes.  | The others is fine. Map is a little small, the points are small.  | Yes, although the color is not constant for the map the graph eariler. In the map, the points are black/red; eariler it is red/blue.  |
-| Do you spot anything that should be changed?  | As mentioned above, add two pie charts.  | Page 5 is quick, and only this offense is a little thin, some other examples to make the point strong.  | As mentioned above, change to a constant color choice for Black/White statistics. Maybe consider some other call for action.  |
+| Do you think the visualization is easy to understand?  | Yes.  | Most visuals are clear. Map is a little small, especially the points are small.  | Yes, although the color is not constant for the map the graph eariler. In the map, the points are black/red; eariler it is red/blue.  |
+| Do you spot anything that should be changed?  | As mentioned above, add two pie charts.  | Page 5 is introduced quickly, and only show this marijuana offense is a little thin, some other examples with similar trend to make the point strong.  | As mentioned above, change to a constant color choice for Black/White statistics. Maybe consider some other call for action.  |
 
 All three intreviewees are graduate school students, so the audience may not be super representative of the whole potential audience.
 
 #### Changes to make
-1. Add bart charts to show the type of offense people get arrested for.
+
+**Add element between slide 4 and 5**
+
+1. Add bart charts to show the type of offense people get arrested for. Add that bar chart plot would complete the general logic line from slide 4 to 5. Like, that's the general trend of arrest counts, how about break down to different offenses people get arrested for?
+2. Consider show some other type of offenses
+3. Clearify the call-for action, e.g. follow the website to keep updated on the social equality movement, and pitch in when you can! e.g. advocate local comunity/government/organizations to improve the situation in those mentioned neighborhoods.
+4. When redo the visualizations, pay attention to have a constant color schema.
+5. When redo the visualizations, make sure the map points are bigger, and spend a little time explain the map
 
 [Return to main page](/README.md)
