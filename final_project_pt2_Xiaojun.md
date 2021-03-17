@@ -81,4 +81,10 @@ All three intreviewees are graduate school students, so the audience may not be 
 4. When redo the visualizations, pay attention to having a constant color schema.
 5. When redo the visualizations, make sure the map points are bigger, and spend a little time explaining the map.
 
+### Referring to Part I and Part III, please return to the main page, or click the following link
+
+[Final Project Part I](/final_project_pt1_Xiaojun.md)
+
+[Final Project Part III](/final_project_pt3_Xiaojun.md)
+
 [Return to main page](/README.md)
