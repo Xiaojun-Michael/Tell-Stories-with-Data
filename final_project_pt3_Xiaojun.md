@@ -1,9 +1,15 @@
 
 ## Final Project Part III
 
+### Changes Made since the completion of Part II
+
+
+
 ### Final Data Story Link
 
-final data stroy link: [short hand final data story link](https://carnegiemellon.shorthandstories.com/before---after-blm---what-happened---what-to-do/index.html)
+final data stroy link: [Final data story link - shorthand platform](https://carnegiemellon.shorthandstories.com/before---after-blm---what-happened---what-to-do/index.html)
+
+All the references for the final data story is listed in the reference part at the end of data stroy.
 
 ### User Research Protocol
 
