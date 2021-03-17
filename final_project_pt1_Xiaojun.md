@@ -43,4 +43,10 @@ The visualizations would be made primarily in Tableau, maybe in Flourish as well
 
 The presentation would be made on the shorthand platform. The embed code for the visuals would be placed in the shorthand desk to combine the visuals into the persentation.
 
+### Continue to Part II and Part III, please return to the main page, or click the following link
+
+[Final Project Part II](/final_project_pt2_Xiaojun.md)
+
+[Final Project Part III](/final_project_pt3_Xiaojun.md)
+
 [Return to main page](/README.md)
