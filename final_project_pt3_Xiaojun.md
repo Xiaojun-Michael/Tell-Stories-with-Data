@@ -19,7 +19,7 @@ All the references for the final data story is listed in the reference part at t
 **Identified audience for final data story**
 
 
-**Design Choices**
+**Work, design decisions and observations**
 
 
 ### Referring to Part I and Part II, please return to the main page, or click the following link
