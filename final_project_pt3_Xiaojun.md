@@ -24,7 +24,7 @@ I think Pittsburgh students with an interest in social problems would be the ear
 
 **Work, design decisions and observations**
 
-There are many design choices to be made during the project. I guess my most important takeaway is to keep getting your work reviewed, listen to what others think of your work, and make design changes accordingly.
+Throughout the project, I have gone through the process of coming up of idea, wireframe, user research, data processing, data visualization and presentation. Among the process, there are many design decisions to be made and many things learnt. Among all those, I guess my most important takeaway is to keep getting your work reviewed, listen to what others think of your work, and make design changes accordingly.
 
 - For example, the general logic flow is one of the most important designs for projects, it determines whether audience can easily understand your story or your point. However, when I am doing the project, I am very familiar with the story context and background infomation, so I can easily miss some parts of the logical flow and assume that people can easily understand the logical transitions. However, sometimes, that's where it will confuse audience. By talking to others and asking for opinion about logical flow, I am able to see where the logical transition is not smooth, how could I add/edit content to make the storyline smooth.
 
