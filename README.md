@@ -23,3 +23,5 @@ The latter half mentioned above is what I am hoping to learn in this class, how 
 [Final Project Part I](/final_project_pt1_Xiaojun.md)
 
 [Final Project Part II](/final_project_pt2_Xiaojun.md)
+
+[Final Project Part III](/final_project_pt3_Xiaojun.md)
